@@ -2,7 +2,7 @@
 ---
 
 ##### 1. Map là gì?
-` Map là tập hợp các phần tử được sắp xếp theo thứ tự cụ thể, mà mỗi phần tử trong đó được hình thành bởi sự kết hợp của một cặp khóa và giá trị (key & value), với mỗi khóa là duy nhất trong map.`
+`Map là tập hợp các phần tử được sắp xếp theo thứ tự cụ thể, mà mỗi phần tử trong đó được hình thành bởi sự kết hợp của một cặp khóa và giá trị (key & value), với mỗi khóa là duy nhất trong map.`
 
 
 `Map thuộc header file <map>, để sử dụng ta cần thêm: `
