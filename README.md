@@ -45,7 +45,7 @@ int main() {
     int cnt = 0;
 
     map<int, int> thuaso; //tạo map để lưu các thừa số
-    thuaso.clear(); //xoá tất cả phần tử trong map
+    thuaso.clear(); //xoá tất cả phần tử trong map đồng thời chỉnh lại size của map
     for(auto i = 2; i <= n; ++i) {
         while(n % i == 0) {
             thuaso[i]++;
