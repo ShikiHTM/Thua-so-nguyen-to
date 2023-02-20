@@ -1,7 +1,7 @@
 ### Phân tích thừa số bằng phương pháp Map
 ---
 
-####1. Map là gì?
+###1. Map là gì?
 ` Map là tập hợp các phần tử được sắp xếp theo thứ tự cụ thể, mà mỗi phần tử trong đó được hình thành bởi sự kết hợp của một cặp khóa và giá trị (key & value), với mỗi khóa là duy nhất trong map.`
 
 
@@ -21,7 +21,7 @@ std::map<k_type, v_type> Variable;
     - `k_type` và `v_type` lần lượt là kiểu dữ liệu của key và value
     - Variable là tên biến
 
-#####2. Cách cài đặt map
+###2. Cách cài đặt map
 ```c++
 #include<iostream>
 #include<map>
